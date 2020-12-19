@@ -7,6 +7,8 @@
 ;	Special thanks to BigEvilCorporation for the
 ;	AtGames detection code
 ;
+;	See LICENSE for licensing details
+;
 ; -------------------------------------------------------------------------
 
 ; -------------------------------------------------------------------------

@@ -19,3 +19,4 @@ Detects:
 * BlastEm (Old versions)
 
 Special thanks to BigEvilCorporation for the AtGames detection code.
+Also thanks to BinBowie for the font.

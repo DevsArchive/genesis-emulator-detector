@@ -56,7 +56,7 @@ Main:
 
 ; -------------------------------------------------------------------------
 
-	include	"emudetect.asm"
+	include	"emudetect/emudetect.asm"
 
 ; -------------------------------------------------------------------------
 ; Macro to convert a normal string into a textbox string and store it
